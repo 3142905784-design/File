@@ -10,6 +10,7 @@ public class FileTest {
 
     public static void main(String[] args) {
         System.out.println(Getdir());
+        System.out.println("结束");
 
     }
 
@@ -31,4 +32,5 @@ public class FileTest {
             }
         }
     }
+
 }
